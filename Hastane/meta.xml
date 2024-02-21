@@ -1,0 +1,16 @@
+
+<meta>
+<info author="AzeRR" type="script" name="Medical System" description="DataMTA" />
+		
+<script src="c_.lua" type="client" cache="false"/>
+<script src="s_.lua" type="server" cache="false"/>
+<file src="resimler/beyazlik.jpg"/>
+<file src="resimler/hastane.png"/>
+	
+
+	
+
+	
+
+		
+</meta>

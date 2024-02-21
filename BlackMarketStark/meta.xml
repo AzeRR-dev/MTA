@@ -1,0 +1,14 @@
+<meta>
+<info author="Stark"/>
+<script src="client.lua" type="client" cache="false"/>
+<script src="server.lua" type="server" cache="false" />
+<script src="shared.lua" type="shared" cache="false"/>
+<file src="files/off.png" />
+<file src="files/arkases.mp3" />
+<file src="files/quit.mp3" />
+<file src="files/onay.mp3" />
+<file src="files/pil.png" />
+<file src="files/aseton.png" />
+<file src="files/labo.png" />
+<file src="files/meth.png" />
+</meta>
